@@ -7,6 +7,8 @@ function App() {
       <input 
       placeholder='Add Your Task' type='text'/>
       <button>Add</button>
+      <button>Add</button>
+
     </form>
   </section>
     </>
